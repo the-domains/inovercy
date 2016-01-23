@@ -1,0 +1,28 @@
+name: Inovercy
+favicon: null
+layout_spectrum: 0.811692250194028
+typography_spectrum: 0.07527869311161339
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6643922964576632
+  lightness: 0.2903479957021773
+  saturation: 0.6455204309895635
+  rhythmicContrast: 0.44520904938690364
+purpose: []
